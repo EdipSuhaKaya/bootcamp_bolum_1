@@ -130,7 +130,7 @@ df_fcst
 
 
 
-"""**HATA METRİKLERİ**"""
+"""**ERROR METRICS**"""
 
 mean_squared_error(y_true=y_test,
                    y_pred=xgb_pred)
